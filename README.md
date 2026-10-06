@@ -2,7 +2,7 @@
 
 An interactive Tableau dashboard that analyzes 1,000 crime records across 8 U.S. cities to show what crimes happen, where, when, and how often they lead to an arrest.
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ## Objectives
 - Show total crimes and total arrests as KPIs
