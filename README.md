@@ -56,3 +56,7 @@ Total Crimes KPI · Total Arrests KPI · Crime Locations map · Severity Analysi
 
 ## Tools
 Tableau Public Desktop Edition, CSV data.
+
+## Author
+**Kabir Rathor**
+GitHub: [@kabirrathore004-boop](https://github.com/kabirrathore004-boop)
